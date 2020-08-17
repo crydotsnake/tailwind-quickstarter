@@ -4,3 +4,32 @@
 @tailwind components;
 
 @tailwind utilities;
+
+html,
+body{
+    background-color: #f7fafc;
+    width: 100%;
+    height: 100%;
+}
+
+.h1{
+    font-size: 40px;
+    color: #edf2f7;
+}
+
+.p{
+    font-size: 15px;
+    color: #edf2f7;
+}
+
+.content{
+    margin: 4%;
+    padding: 15%;
+    text-align: center;
+    align-items: center;
+}
+
+.footer{
+    text-align: center;
+    margin: 1%;
+}
